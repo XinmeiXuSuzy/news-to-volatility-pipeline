@@ -64,10 +64,6 @@ The model captures meaningful structure in short-term volatility despite its inh
 
 Short-horizon volatility is dominated by price-based persistence; sentiment provides limited signal except on major event days.
 
-You may add:
-- Predicted vs actual volatility plot  
-- Feature importance bar chart
-
 ---
 
 ## Key Technologies
