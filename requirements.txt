@@ -1,0 +1,12 @@
+pandas
+finnhub-python
+numpy
+requests
+python-dotenv
+yfinance
+scikit-learn
+transformers
+torch
+tqdm
+matplotlib
+jupyter
